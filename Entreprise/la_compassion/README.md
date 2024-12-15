@@ -10,3 +10,5 @@ Sécurité 🛡️
 Performance 🚀
 Transformation numérique 💻
 Note : Ce projet est confidentiel 🤫.
+
+Période : 2021 - 2022 ⏳
