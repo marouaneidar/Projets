@@ -26,6 +26,8 @@ Une interface graphique intuitive avec :
 📂 Importation de fichiers simplifiée.
 👀 Affichage des métadonnées.
 🔍 Vérification des hachages en un clic.
+
+
 🎯 Objectif du projet
 L'objectif de FileDetective est de fournir un outil simple mais puissant 💪 :
 
